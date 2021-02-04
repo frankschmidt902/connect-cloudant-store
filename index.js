@@ -1,1 +1,1 @@
-module.exports = require('./lib/connect-cloudant-store');
+module.exports = require('./lib/connect-cloudant-store')

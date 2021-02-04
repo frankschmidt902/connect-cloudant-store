@@ -1,8 +1,6 @@
 # connect-cloudant-store
 
-[![NPM Version][npm-image]][npm-url]
-[![NPM Downloads][downloads-image]][downloads-url]
-[![Build Status][travis-image]][travis-url]
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 NodeJS express-session storage connector for IBM Cloudant. 
 The module is build on top of the cloudant npm module with promises plugin - the official Node JS Cloudant library.
